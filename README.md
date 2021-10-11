@@ -18,4 +18,4 @@
 ![December summary statistics](Resources/December_Summary_Statistics.png)
 
 ## Summary: 
-  Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+  Temperatures in the dataset were relatively similar for the months of June and December. However, there was a greater standard deviation between temperature data in the December set than there was in the June set. The difference between minimum and maxiumum temperatures were greater in December than in June. One additional query that you would perform would be to gather data about precipitation in June and December. Another additional query that you could perform would be to look at the station data to see if temperatures varied across location. 
